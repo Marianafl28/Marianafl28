@@ -11,17 +11,9 @@
 
 ###
 
-<p align="left">✨ Programmer<br>📚 I'm currently studying systems analysis and development <br>🎯 Goals: work abroad .<br>🎲 Fun fact: I will think about it lol</p>
+<p align="left">✨ Programmer<br>📚 I'm currently studying systems analysis and development <br>🎯 Goals: work abroad .<br>🎲</p>
 
 ###
-
-<h2 align="left">I code with</h2>
-
-
-
-
-###
-
 
 
 
