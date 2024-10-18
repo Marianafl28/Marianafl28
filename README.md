@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Programmer<br>📚 I'm currently studying systems analysis and development <br>🎯 Goals: work abroad .<br>🎲</p>
+<p align="left">✨ Programmer<br>📚 I'm currently studying systems analysis and development <br>🎯 Goals: work abroad .</p>
 
 ###
 
