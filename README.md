@@ -3,7 +3,7 @@
 ###
 
 
-<p align="left">My name is Mariana and I'm a full stack developer 👩‍💻, from Brazil 🌴✈️</p>
+<p align="left">My name is Mariana and I'm a full stack developer 👩‍💻 from Brazil 🌴✈️</p>
 
 ###
 
